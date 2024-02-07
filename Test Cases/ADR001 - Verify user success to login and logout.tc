@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADR001 - Verify user success to login and logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed960a02-37d3-4bdd-873c-02f53794f9fa</testCaseGuid>
+</TestCaseEntity>
